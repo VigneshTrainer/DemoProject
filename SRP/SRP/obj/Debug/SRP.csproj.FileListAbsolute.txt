@@ -1,0 +1,8 @@
+D:\C#-SOLID Principle\SRP\SRP\bin\Debug\SRP.exe.config
+D:\C#-SOLID Principle\SRP\SRP\bin\Debug\SRP.exe
+D:\C#-SOLID Principle\SRP\SRP\bin\Debug\SRP.pdb
+D:\C#-SOLID Principle\SRP\SRP\obj\Debug\SRP.csproj.AssemblyReference.cache
+D:\C#-SOLID Principle\SRP\SRP\obj\Debug\SRP.csproj.SuggestedBindingRedirects.cache
+D:\C#-SOLID Principle\SRP\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\C#-SOLID Principle\SRP\SRP\obj\Debug\SRP.exe
+D:\C#-SOLID Principle\SRP\SRP\obj\Debug\SRP.pdb
